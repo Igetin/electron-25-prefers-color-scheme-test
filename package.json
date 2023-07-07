@@ -1,7 +1,7 @@
 {
-  "name": "burly-rate-begin-iqsp1",
-  "productName": "burly-rate-begin-iqsp1",
-  "description": "My Electron application description",
+  "name": "electron-25-prefers-color-scheme-test",
+  "productName": "electron-25-prefers-color-scheme-test",
+  "description": "Electron 25 prefers-color-scheme test",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
